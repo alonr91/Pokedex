@@ -1,5 +1,7 @@
 # Pokedex
 
+This project simulate pokedex and it's purpose is to catalog and provide information regarding the various species of Pokémon
+
 Before you begin you need to make sure you have libraries such as:
 Pandas, Matplotlib, Tkinter and Pillow.
 
